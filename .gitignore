@@ -1,0 +1,23 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Python packaging
+build/
+dist/
+
+# Logs and debug
+*.log
+
+# IDE settings
+.idea/
+
+# VSCode (if you also use it)
+.vscode/
